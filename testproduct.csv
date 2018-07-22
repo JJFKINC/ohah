@@ -1,0 +1,12 @@
+Seller Product Id,Product Identifier,Selling Price,Stock,SKU,Quantity Increment,Min Order Quantity,Sustack Stock,Track Inventory,Threshold Stock Level,Condition Identifier,Title,Comments,URL Keyword,Available From,Active,Cod Available
+1,hey,10,50,BWABC,5,5,1,1,10,New,test-test-test -  | BWABC | Wholesale | STRETCH WRAP,,test-test-test  BWABC Wholesale STRETCH WRAP,07/21/2018 00:00:00,YES,NO
+1,hello,5,50,BWEFGBLACK,5,5,1,1,10,New,kissing ball flower ball - BLACK | BWEFGBLACK | Wholesale | STRETCH WRAP,,kissing ball flower ball BLACK BWEFGBLACK Wholesale STRETCH WRAP,07/21/2018 00:00:00,YES,NO
+2,hello,5,50,BWEFGBLUE,5,5,1,1,10,New,kissing ball flower ball - BLUE | BWEFGBLUE | Wholesale | STRETCH WRAP,,kissing ball flower ball BLUE BWEFGBLUE Wholesale STRETCH WRAP,07/21/2018 00:00:00,YES,NO
+3,hello,5,50,BWEFGORANGE,5,5,1,1,10,New,kissing ball flower ball - ORANGE | BWEFGORANGE | Wholesale | STRETCH WRAP,,kissing ball flower ball ORANGE BWEFGORANGE Wholesale STRETCH WRAP,07/21/2018 00:00:00,YES,NO
+4,hello,5,50,BWEFGGREEN,5,5,1,1,10,New,kissing ball flower ball - GREEN | BWEFGGREEN | Wholesale | STRETCH WRAP,,kissing ball flower ball GREEN BWEFGGREEN Wholesale STRETCH WRAP,07/21/2018 00:00:00,YES,NO
+5,hello,5,50,BWEFGPINK,5,5,1,1,10,New,kissing ball flower ball - PINK | BWEFGPINK | Wholesale | STRETCH WRAP,,kissing ball flower ball PINK BWEFGPINK Wholesale STRETCH WRAP,07/21/2018 00:00:00,YES,NO
+1,bye,1,100,BWHIJBLACK,10,10,1,1,20,New,kaixin - BLACK | BWHIJBLACK | Free Shipping | Wholesale | STRETCH WRAP,,kaixin BLACK BWHIJBLACK Free Shipping Wholesale STRETCH WRAP,07/21/2018 00:00:00,YES,NO
+2,bye,2,100,BWHIJBLUE,10,10,1,1,20,New,kaixin - BLUE | BWHIJBLUE | Free Shipping | Wholesale | STRETCH WRAP,,kaixin BLUE BWHIJBLUE Free Shipping Wholesale STRETCH WRAP,07/21/2018 00:00:00,YES,NO
+3,bye,3,200,BWHIJORANGE,20,20,1,1,40,New,kaixin - ORANGE | BWHIJORANGE | Free Shipping | Wholesale | STRETCH WRAP,,kaixin ORANGE BWHIJORANGE Free Shipping Wholesale STRETCH WRAP,07/21/2018 00:00:00,YES,NO
+4,bye,4,200,BWHIJGREEN,20,20,1,1,40,New,kaixin - GREEN | BWHIJGREEN | Free Shipping | Wholesale | STRETCH WRAP,,kaixin GREEN BWHIJGREEN Free Shipping Wholesale STRETCH WRAP,07/21/2018 00:00:00,YES,NO
+5,bye,5,300,BWHIJPINK,30,30,1,1,60,New,kaixin - PINK | BWHIJPINK | Free Shipping | Wholesale | STRETCH WRAP,,kaixin PINK BWHIJPINK Free Shipping Wholesale STRETCH WRAP,07/21/2018 00:00:00,YES,NO
